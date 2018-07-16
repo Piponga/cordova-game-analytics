@@ -38,7 +38,7 @@
 
         <header-file src="src/ios/GameAnalytics.h" />
         <header-file src="src/ios/GameAnalyticsCordova.h" />
-        <source-file src="src/ios/GameAnalyticsCordova.m" />
+        <source-file src="src/ios/GameAnalyticsPlugin.m" />
 
         <framework src="GA-SDK-IOS" type="podspec" spec="~> 2.2.18" />
         <framework src="AdSupport.framework" weak="true" />
